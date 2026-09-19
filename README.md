@@ -44,16 +44,10 @@ An FPGA based raymarching accelerator
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=b3elz3bub&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3elz3bub&layout=compact&hide_border=true&theme=transparent" height="160"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-*"Understand the abstraction. Then break through it."*
-
-</div>
