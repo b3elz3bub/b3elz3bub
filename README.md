@@ -18,7 +18,7 @@ My interests sit around **computer architecture, specialized hardware, digital d
 
 `Computer Architecture` · `ASIC Design` · `AI Accelerators` · `RISC-V` · `RTL` · `Memory Systems` · `Interconnects` · `Hardware/Software Co-Design`
 
-### Selected Projects
+### Projects
 
 **RISC-V Processor**  
 Implementing and experimenting with RISC-V processors, including pipelining, ISA support, verification, and FPGA prototyping.
