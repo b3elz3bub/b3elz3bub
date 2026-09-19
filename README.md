@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sathvik Duddela
+# Hi I'm Sathvik Duddela
 
 **Computer Architecture · ASIC Design · Hardware/Software Co-Design**
 
