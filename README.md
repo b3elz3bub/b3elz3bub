@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**b3elz3bub/b3elz3bub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sathvik Duddela
 
-Here are some ideas to get you started:
+**Computer Architecture · ASIC Design · Hardware/Software Co-Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/b3elz3bub)
+
+</div>
+
+---
+
+I like building things close to the metal.
+
+My interests sit around **computer architecture, specialized hardware, digital design, and the boundary between hardware and software**.
+
+### Interests
+
+`Computer Architecture` · `ASIC Design` · `AI Accelerators` · `RISC-V` · `RTL` · `Memory Systems` · `Interconnects` · `Hardware/Software Co-Design`
+
+### Selected Projects
+
+**RISC-V Processor**  
+Implementing and experimenting with RISC-V processors, including pipelining, ISA support, verification, and FPGA prototyping.
+
+**Raymarching Accelerator**
+An FPGA based raymarching accelerator
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,cpp,git&theme=dark" />
+
+</p>
+
+<p align="center">
+
+`SystemVerilog` · `Verilog` · `VHDL` · `RISC-V` · `Vivado` · `FPGA` · `C/C++` · `Python`
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Understand the abstraction. Then break through it."*
+
+</div>
