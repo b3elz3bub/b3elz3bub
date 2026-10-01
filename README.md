@@ -21,10 +21,10 @@ My interests sit around **computer architecture, specialized hardware, digital d
 ### Projects
 
 **RISC-V Processor**  
-Implementing and experimenting with RISC-V processors, including pipelining, ISA support, verification, and FPGA prototyping.
+Implementing and experimenting with RISC-V processors, including pipelining, ISA support, verification, Firmware and FreeRTOS support and FPGA prototyping.
 
 **Raymarching Accelerator**
-An FPGA based raymarching accelerator
+An FPGA based raymarching accelerator written in VHDL
 
 ### Tools
 
