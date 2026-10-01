@@ -26,6 +26,9 @@ Implementing and experimenting with RISC-V processors, including pipelining, ISA
 **Raymarching Accelerator**
 An FPGA based raymarching accelerator written in VHDL
 
+**ProtoEmu**
+A general purpose protocol emulator ASIC. Currently WIP.
+
 ### Tools
 
 <p align="center">
