@@ -23,10 +23,10 @@ My interests sit around **computer architecture, specialized hardware, digital d
 **RISC-V Processor**  
 Implementing and experimenting with RISC-V processors, including pipelining, ISA support, verification, Firmware and FreeRTOS support and FPGA prototyping.
 
-**Raymarching Accelerator**
+**Raymarching Accelerator**  
 An FPGA based raymarching accelerator written in VHDL
 
-**ProtoEmu**
+**ProtoEmu**  
 A general purpose protocol emulator ASIC. Currently WIP.
 
 ### Tools
