@@ -2,7 +2,7 @@
 
 # Hi I'm Sathvik Duddela
 
-**Computer Architecture · ASIC Design · Hardware/Software Co-Design**
+**Computer Architecture · ASIC Design & Verification · Hardware/Software Co-Design**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/b3elz3bub)
 
