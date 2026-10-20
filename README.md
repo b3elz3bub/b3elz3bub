@@ -16,7 +16,7 @@ My interests sit around **computer architecture, specialized hardware, digital d
 
 ### Interests
 
-`Computer Architecture` · `ASIC Design` · `AI Accelerators` · `RISC-V` · `RTL` · `Memory Systems` · `Interconnects` · `Hardware/Software Co-Design`
+`Computer Architecture` · `ASIC Design & Verification` · `AI Accelerators` · `Formal Verification` · `RISC-V` · `RTL` · `Memory Systems` · `Interconnects` · `Hardware/Software Co-Design`
 
 ### Projects
 
